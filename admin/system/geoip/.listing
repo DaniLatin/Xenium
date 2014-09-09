@@ -1,0 +1,6 @@
+drwx---r-x    2 megabon  inetuser     4096 Jul  4 19:05 .
+drwx---r-x    7 megabon  inetuser     4096 Nov  3 14:06 ..
+-rw----r--    1 megabon  inetuser  1066054 Jul  4 19:05 GeoIP.dat
+-rw----r--    1 megabon  inetuser  9945524 Jul  4 19:05 GeoIPCountryWhois.csv
+-rw----r--    1 megabon  inetuser    24138 Jul  4 19:05 geoip.inc
+-rw----r--    1 megabon  inetuser      834 Jul  4 19:05 geoip.php
